@@ -1,0 +1,16 @@
+[package]
+name = "range-time"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+
+[dependencies]
+chrono = "0.4.39"
+
+
+[[examples]]
+name = "range"
+
+[[examples]]
+name = "custom_filter"
